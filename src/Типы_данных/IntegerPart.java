@@ -1,3 +1,5 @@
+package Типы_данных;
+
 public class IntegerPart {
     public static void main(String[] args) {
         float floatNum = 2.6f;

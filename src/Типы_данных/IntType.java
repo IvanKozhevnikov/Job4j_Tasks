@@ -1,3 +1,5 @@
+package Типы_данных;
+
 import java.util.Scanner;
 
 public class IntType {

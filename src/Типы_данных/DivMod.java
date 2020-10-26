@@ -1,3 +1,5 @@
+package Типы_данных;
+
 public class DivMod {
     public static void main(String[] args) {
         int num = 11;

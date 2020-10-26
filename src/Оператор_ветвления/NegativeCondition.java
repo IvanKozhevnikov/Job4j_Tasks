@@ -1,3 +1,5 @@
+package Оператор_ветвления;
+
 public class NegativeCondition {
     public static void main(String[] args) {
         int num = -1;
